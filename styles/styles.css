@@ -1,0 +1,60 @@
+.ttsLogo{
+    height: 85px;
+    width: 105px;
+    margin-left: 185px;
+}
+
+.navItems {
+    margin-left: 700px;
+}
+
+.jumbotron {
+    background-image: url("../styles/officeImg.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.jumbotron h4 {
+    text-align: center;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.jumbotron p {
+    text-align: center;
+    font-size: large;
+}
+
+.jumbotron a {
+    text-align: center;
+}
+
+.btnSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.rowOne h4, p {
+    text-align: center;
+}
+
+.rowOneCols {
+    
+}
+
+.rowTwoCols img {
+    height: 400px;
+    width: 600px;
+}
+
+.rowThreeCols img {
+    height: 400px;
+    width: 600px;
+}
+
+#imgDiv img {
+    height: 600px;
+    width: 800px;
+}
