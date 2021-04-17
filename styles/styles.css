@@ -54,6 +54,13 @@
     width: 600px;
 }
 
+#rowThreeBtn {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    float: right;
+}
+
 #imgDiv img {
     height: 600px;
     width: 800px;
