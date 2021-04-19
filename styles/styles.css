@@ -9,7 +9,7 @@
 }
 
 .jumbotron {
-    background-image: url("../styles/officeImg.jpg");
+    background-image: url("../styles/officeImgOne.jpg");
     background-size: cover;
     height: 100%;
 }
@@ -18,11 +18,13 @@
     text-align: center;
     font-weight: 700;
     font-size: xx-large;
+    color: white;
 }
 
 .jumbotron p {
     text-align: center;
     font-size: large;
+    color: white;
 }
 
 .jumbotron a {
