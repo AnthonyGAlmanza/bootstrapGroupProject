@@ -73,3 +73,16 @@
 .card-text {
     text-align: left;
 }
+
+.footerTop h4 {
+    color: white;
+}
+
+.footerTop p {
+    color: white;
+}
+
+.footerBottom img {
+    height: 200px;
+    width: 220px;
+}
