@@ -4,12 +4,32 @@
     margin-left: 185px;
 }
 
+.jumbospacer {
+    /* margin-top: 200px;
+    Padding-top: 200px; */
+}
+
+.vidcontainer {
+    background-image: url("../styles/vidbackground.png");
+    display: block;
+    margin: 0 auto;
+    align-content: center;
+    padding-bottom: 100px;
+}
+.navbar {
+    position: fixed !important;
+    margin-top: 0px;
+    margin-bottom: 1000px;
+    width: 100%;
+    z-index: 20;
+}
+
 .navItems {
     margin-left: 700px;
 }
 
 .jumbotron {
-    background-image: url("../styles/officeImgOne.jpg");
+    background-image: url("../styles/backgroundimg.png");
     background-size: cover;
     height: 100%;
 }
